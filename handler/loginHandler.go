@@ -2,8 +2,8 @@ package handler
 
 import (
 	"fmt"
-	models2 "github.com/Assyl00/goProject/internal/models"
-	"github.com/Assyl00/goProject/token"
+	models2 "github.com/dtusupbaev/goProject/internal/models"
+	"github.com/dtusupbaev/goProject/token"
 	"net/http"
 	"time"
 

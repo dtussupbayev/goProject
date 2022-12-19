@@ -3,9 +3,9 @@ package handler
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/Assyl00/goProject/internal/models"
-	"github.com/Assyl00/goProject/internal/store"
-	"github.com/Assyl00/goProject/token"
+	"github.com/dtusupbaev/goProject/internal/models"
+	"github.com/dtusupbaev/goProject/internal/store"
+	"github.com/dtusupbaev/goProject/token"
 	"github.com/go-chi/chi"
 	"github.com/go-chi/render"
 	lru "github.com/hashicorp/golang-lru"

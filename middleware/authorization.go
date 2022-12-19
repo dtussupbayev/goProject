@@ -1,8 +1,8 @@
 package middleware
 
 import (
-	"github.com/Assyl00/goProject/internal/models"
-	"github.com/Assyl00/goProject/token"
+	"github.com/dtusupbaev/goProject/internal/models"
+	"github.com/dtusupbaev/goProject/token"
 	"github.com/gin-gonic/gin"
 	//"fmt"
 	"net/http"

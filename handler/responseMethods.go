@@ -1,7 +1,7 @@
 package handler
 
 import (
-	"github.com/Assyl00/goProject/internal/models"
+	"github.com/dtusupbaev/goProject/internal/models"
 	"net/http"
 
 	"github.com/gin-gonic/gin"

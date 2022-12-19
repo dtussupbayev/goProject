@@ -2,7 +2,7 @@ package kafka
 
 import (
 	"context"
-	"github.com/Assyl00/goProject/internal/message_broker"
+	"github.com/dtusupbaev/goProject/internal/message_broker"
 	lru "github.com/hashicorp/golang-lru"
 )
 

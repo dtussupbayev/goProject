@@ -2,11 +2,11 @@ package http
 
 import (
 	"context"
-	"github.com/Assyl00/goProject/handler"
-	"github.com/Assyl00/goProject/internal/http/resource"
-	"github.com/Assyl00/goProject/internal/message_broker"
-	"github.com/Assyl00/goProject/internal/store"
-	"github.com/Assyl00/goProject/token"
+	"github.com/dtusupbaev/goProject/handler"
+	"github.com/dtusupbaev/goProject/internal/http/resource"
+	"github.com/dtusupbaev/goProject/internal/message_broker"
+	"github.com/dtusupbaev/goProject/internal/store"
+	"github.com/dtusupbaev/goProject/token"
 	"github.com/go-chi/chi"
 	lru "github.com/hashicorp/golang-lru"
 	"log"

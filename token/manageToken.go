@@ -3,7 +3,7 @@ package token
 import (
 	"errors"
 	"fmt"
-	"github.com/Assyl00/goProject/internal/models"
+	"github.com/dtusupbaev/goProject/internal/models"
 	"github.com/dgrijalva/jwt-go"
 	"math/rand"
 	"time"

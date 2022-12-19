@@ -3,8 +3,8 @@ package kafka
 import (
 	"context"
 	"encoding/json"
-	"github.com/Assyl00/goProject/internal/message_broker"
-	"github.com/Assyl00/goProject/internal/models"
+	"github.com/dtusupbaev/goProject/internal/message_broker"
+	"github.com/dtusupbaev/goProject/internal/models"
 	"github.com/Shopify/sarama"
 	lru "github.com/hashicorp/golang-lru"
 	"log"

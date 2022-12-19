@@ -3,9 +3,9 @@ package resource
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/Assyl00/goProject/internal/message_broker"
-	"github.com/Assyl00/goProject/internal/models"
-	"github.com/Assyl00/goProject/internal/store"
+	"github.com/dtusupbaev/goProject/internal/message_broker"
+	"github.com/dtusupbaev/goProject/internal/models"
+	"github.com/dtusupbaev/goProject/internal/store"
 	"github.com/go-chi/chi"
 	"github.com/go-chi/render"
 	validation "github.com/go-ozzo/ozzo-validation/v4"

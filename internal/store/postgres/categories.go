@@ -3,8 +3,8 @@ package postgres
 import (
 	"context"
 	"fmt"
-	"github.com/Assyl00/goProject/internal/models"
-	"github.com/Assyl00/goProject/internal/store"
+	"github.com/dtusupbaev/goProject/internal/models"
+	"github.com/dtusupbaev/goProject/internal/store"
 	"github.com/jmoiron/sqlx"
 )
 

@@ -2,7 +2,7 @@ package store
 
 import (
 	"context"
-	"github.com/Assyl00/goProject/internal/models"
+	"github.com/dtusupbaev/goProject/internal/models"
 )
 
 type Store interface {

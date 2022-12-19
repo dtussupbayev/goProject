@@ -2,9 +2,9 @@ package main
 
 import (
 	"context"
-	"github.com/Assyl00/goProject/internal/http"
-	"github.com/Assyl00/goProject/internal/message_broker/kafka"
-	"github.com/Assyl00/goProject/internal/store/postgres"
+	"github.com/dtusupbaev/goProject/internal/http"
+	"github.com/dtusupbaev/goProject/internal/message_broker/kafka"
+	"github.com/dtusupbaev/goProject/internal/store/postgres"
 	lru "github.com/hashicorp/golang-lru"
 	"log"
 	"os"

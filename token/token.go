@@ -2,7 +2,7 @@ package token
 
 import (
 	"fmt"
-	"github.com/Assyl00/goProject/internal/models"
+	"github.com/dtusupbaev/goProject/internal/models"
 	"time"
 
 	"github.com/dgrijalva/jwt-go"
